@@ -19,12 +19,12 @@ const Pricing = () => {
               </div>
               <ul className="flex-1 space-y-4">
                 <li className="text-gray-500 dark:text-gray-400">
-                  Up to 5 projects
+                Unlimited Order
                 </li>
                 <li className="text-gray-500 dark:text-gray-400">
-                  Up to 10 collaborators
+                Online payment
                 </li>
-                <li className="text-gray-500 dark:text-gray-400">2Gb of storage</li>
+                <li className="text-gray-500 dark:text-gray-400">Statistics of your activity</li>
               </ul>
               <Link
                 to="/manager/register"
@@ -52,16 +52,16 @@ const Pricing = () => {
               </div>
               <ul className="flex-1 space-y-4">
                 <li className="text-gray-500 dark:text-gray-400">
-                  Up to 10 projects
+                Unlimited Order
                 </li>
                 <li className="text-gray-500 dark:text-gray-400">
-                  Up to 20 collaborators
+                Online payment
                 </li>
                 <li className="text-gray-500 dark:text-gray-400">
-                  10Gb of storage
+                Statistics of your activity
                 </li>
                 <li className="text-gray-500 dark:text-gray-400">
-                  Real-time collaborations
+                Custom QR code stickers
                 </li>
               </ul>
               <Link
@@ -90,19 +90,19 @@ const Pricing = () => {
               </div>
               <ul className="flex-1 space-y-4">
                 <li className="text-gray-500 dark:text-gray-400">
-                  Unlimited projects
+                  Unlimited Order
                 </li>
                 <li className="text-gray-500 dark:text-gray-400">
-                  Unlimited collaborators
+                Online payment
                 </li>
                 <li className="text-gray-500 dark:text-gray-400">
-                  Unlimited storage
+                Statistics of your activity
                 </li>
                 <li className="text-gray-500 dark:text-gray-400">
-                  Real-time collaborations
+                Customer management
                 </li>
                 <li className="text-gray-500 dark:text-gray-400">
-                  24x7 Support
+                Custom QR code stickers
                 </li>
               </ul>
               <Link
