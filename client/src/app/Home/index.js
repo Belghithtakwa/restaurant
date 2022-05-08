@@ -198,7 +198,7 @@ const Home = ({ sendMessage }) => {
                       </div>
                       <div>
                         <h4 className="text-blueGray-500">
-                          Carefully crafted components
+                        sell its products in click and collect
                         </h4>
                       </div>
                     </div>
@@ -212,7 +212,7 @@ const Home = ({ sendMessage }) => {
                       </div>
                       <div>
                         <h4 className="text-blueGray-500">
-                          Amazing page examples
+                        allow your customers to order and pay from their table
                         </h4>
                       </div>
                     </div>
@@ -226,7 +226,7 @@ const Home = ({ sendMessage }) => {
                       </div>
                       <div>
                         <h4 className="text-blueGray-500">
-                          Dynamic components
+                          Dynamic Menu
                         </h4>
                       </div>
                     </div>
@@ -245,9 +245,7 @@ const Home = ({ sendMessage }) => {
                 Build something
               </h2>
               <p className="text-lg leading-relaxed mt-4 mb-4 text-blueGray-400">
-                Put the potentially record low maximum sea ice extent tihs year
-                down to low ice. According to the National Oceanic and
-                Atmospheric Administration, Ted, Scambos.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
               </p>
             </div>
           </div>
@@ -260,8 +258,7 @@ const Home = ({ sendMessage }) => {
                 Excelent Services
               </h6>
               <p className="mt-2 mb-4 text-blueGray-400">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
               </p>
             </div>
             <div className="w-full lg:w-3/12 px-4 text-center">
@@ -272,8 +269,7 @@ const Home = ({ sendMessage }) => {
                 Grow your market
               </h5>
               <p className="mt-2 mb-4 text-blueGray-400">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
               </p>
             </div>
             <div className="w-full lg:w-3/12 px-4 text-center">
@@ -284,8 +280,7 @@ const Home = ({ sendMessage }) => {
                 Launch time
               </h5>
               <p className="mt-2 mb-4 text-blueGray-400">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
               </p>
             </div>
           </div>
