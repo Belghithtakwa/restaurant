@@ -4,7 +4,7 @@ const About = () => {
   return (
     <Fragment>
     <div class="lg:2/6 xl:w-2/4 mt-20 lg:mt-40 lg:ml-16 text-left">
-            <div className="text-5xl font-medium text-gray-900 w-64 leading-none">A major ally for the digitalization of your restaurant.</div>
+            <div className="text-5xl font-medium text-gray-900 w-96 leading-none">A major ally for the digitalization of your restaurant.</div>
             <div className="mt-6 text-xl font-bold text-primary antialiased">Easy to use and quick to set up, it takes no commission.​​​​​
            
             </div>
